@@ -1,0 +1,13 @@
+.meanings {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    height: 55vh;
+    borde
+}
+.subtitle {
+    font-size: 5vw;
+    font-family: 'Motserrat', sans-serif;
+}
+
